@@ -1,0 +1,19 @@
+.stories-content {
+    height: 500px;
+    background-color: #f5fbff;
+}
+.kasia-ductorn {
+    display: flex;
+    text-align: left;
+    max-width: 1200px;
+    margin: 60px auto;
+    column-gap: 150px;
+}
+.kasia-ductorn h3 {
+    font-size: 48px;
+    font-weight: 100;
+    margin: 0 0 30px 0;
+}
+.neil-content {
+    margin: 130px 0 20px 0;
+}

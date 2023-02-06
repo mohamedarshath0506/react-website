@@ -1,0 +1,36 @@
+.about-as {
+    height: 930px;
+    background-color: #F5FBFF;
+}
+.word {
+    border-bottom: 1px solid;
+}
+.list {
+    padding: 15px;
+}
+.list-item {
+    list-style: none;
+    column-gap: 60px;
+}
+.content {
+    margin: 105px auto;
+}
+.content h3 {
+    font-size: 80px;
+    font-weight: 400;
+    margin: 0;
+}
+.content h1 {
+    font-size: 250px;
+    margin: 0;
+}
+.content-para {
+    font-size: 40px;
+}
+.content button {
+    padding: 10px 15px;
+    border-radius: 20px;
+    border: none;
+    color: #fff;
+    background-color: #101126;
+}

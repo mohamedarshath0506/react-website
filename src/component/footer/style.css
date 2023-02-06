@@ -1,0 +1,30 @@
+footer {
+    height: 245px;
+    background-color: #f5fbff;
+}
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.willson {
+    text-align: left;
+}
+.footer-content h5 {
+    font-size: 32px;
+    font-weight: 400;
+    margin: 80px 0 0 0;
+}
+.email {
+    font-size: 20px;
+    margin: 10px 0 0 0;   
+}
+.number {
+    font-size: 20px;
+    margin: 0;
+}
+.list-letter {
+    font-size: 20px;
+    display: flex;
+    column-gap: 20px;
+}

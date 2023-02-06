@@ -1,0 +1,22 @@
+.goals {
+    display: flex;
+    max-width: 1200px;
+    margin:75px auto;
+}
+.left-content {
+    text-align: left;
+    line-height: 45px;
+}
+.left-content p {
+    margin: 0;
+}
+.left-content h1 {
+    width: 68%;
+    line-height: 40px;
+    margin: 0;
+    font-size: 40px;
+    font-weight: 600;
+}
+.right-content{
+    text-align: left;
+}

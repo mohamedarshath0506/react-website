@@ -1,0 +1,17 @@
+.believe {
+    height: 468px;
+    color: #fff;
+    background: #101126;
+}
+.believe p {
+    font-size: 40px;
+    max-width: 960px;
+    margin: 0 0 20px 0;
+}
+.believe button {
+    padding: 10px 30px;
+    border-radius: 20px;
+    border: 1px solid;
+    color: #fff;
+    background-color: #101126;
+}
